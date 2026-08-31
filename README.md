@@ -1,4 +1,4 @@
-# DOCUMENTACIÓN DEL PROYECTO [cite: 1]
+# DOCUMENTACIÓN DEL PROYECTO 
 
 **Laboratorio de Software 3**  
 **Proyecto:** ActividadLabortorioIII  
